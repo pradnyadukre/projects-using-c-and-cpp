@@ -1,0 +1,11 @@
+Project Name : Parking Management System.
+
+Description  : Project Parking Management System is made ,which is able to record no of vehicles,
+no of vehicles according to there type,total amount of charges taken per entry. 
+
+language  used : C
+
+Concepts Used : 1> Opraters
+                2> do while
+                3> Switch case
+                4> Process control (exit) using stlib.h.  

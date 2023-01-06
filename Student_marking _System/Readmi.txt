@@ -1,0 +1,13 @@
+Project Name : Student marking System
+
+Description  : Project Student marking System is made ,which is able to  keep record of students,
+we can search,append ,display data.
+
+language  used : C
+
+Concepts Used : 1> for loop
+                2> do while
+                3> Switch case
+                4> Dynamic memory allocation
+                5> File handling
+                6> NEsted structure
